@@ -1,0 +1,9 @@
+{
+  "id": "ashley",
+  "name": "Ashley",
+  "age": 79,
+  "dietary_restrictions": ["Low Sodium"],
+  "health_conditions": ["Hypothyroidism", "Mild Anemia"],
+  "preferences": ["loves fruits", "vegetarian meals preferred", "soft-texture foods"],
+  "calorie_target": 1600
+}

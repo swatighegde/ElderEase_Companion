@@ -1,0 +1,9 @@
+{
+  "id": "joan",
+  "name": "Joan",
+  "age": 82,
+  "dietary_restrictions": ["Low Sodium", "Gluten Free"],
+  "health_conditions": ["Hypertension", "Osteoarthritis"],
+  "preferences": ["likes spicy food", "soup for lunch", "easy-to-chew"],
+  "calorie_target": 1500
+}

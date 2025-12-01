@@ -1,0 +1,9 @@
+{
+  "id": "mark",
+  "name": "Mark",
+  "age": 76,
+  "dietary_restrictions": ["Diabetic Friendly", "Low Sugar"],
+  "health_conditions": ["Type 2 Diabetes", "High Cholesterol"],
+  "preferences": ["prefers warm breakfasts", "likes fish", "no spicy foods"],
+  "calorie_target": 1700
+}

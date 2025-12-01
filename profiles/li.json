@@ -1,0 +1,9 @@
+{
+  "id": "li",
+  "name": "Li",
+  "age": 75,
+  "dietary_restrictions": ["Vegetarian", "High Fiber"],
+  "health_conditions": ["High Cholesterol"],
+  "preferences": ["tofu based dishes", "warm teas", "minimal processed food"],
+  "calorie_target": 1800
+}

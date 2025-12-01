@@ -1,0 +1,9 @@
+{
+  "id": "rita",
+  "name": "Rita",
+  "age": 78,
+  "dietary_restrictions": ["Diabetic", "Low Sugar", "Low Carb"],
+  "health_conditions": ["Type 2 Diabetes", "Mild Cognitive Impairment"],
+  "preferences": ["loves oatmeal", "prefers fish over meat", "light dinners"],
+  "calorie_target": 1600
+}
