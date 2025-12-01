@@ -104,12 +104,6 @@ ElderlyEase_companion/
 
 ---
 
-## 🔄 System Flow Diagram 
-
-
-
----
-
 ## 🚀 Setup Instructions
 
 ### **1. Clone the Repository**
