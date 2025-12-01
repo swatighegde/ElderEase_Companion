@@ -109,7 +109,7 @@ ElderlyEase_companion/
 ### **1. Clone the Repository**
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/swatighegde/ElderEase_Companion.git
 cd ElderlyEase_companion
 ```
 
